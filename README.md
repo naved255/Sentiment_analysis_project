@@ -6,8 +6,8 @@ A full-stack machine learning project that predicts whether a given text (e.g., 
 
 ## 🚀 Live Demo
 
-* 🌐 **Frontend:** https://your-frontend-url.com
-* ⚙️ **Backend API:** https://your-backend-url.com
+* 🌐 **Frontend:** [https://your-frontend-url.com](https://sentiment-analysis-project-self.vercel.app/)
+* ⚙️ **Backend API:** [https://your-backend-url.com](https://sentiment-analysis-project-75zy.onrender.com)
 
 ---
 
